@@ -5,7 +5,7 @@
 **Authors:** Md Jawadul Karim · Ipshita Bonhi Upoma
 
 ---
-https://github.com/md-jawad-117/CSE756_Project_DualPathCRFNet/blob/main/Video/0007_seg.mp4
+https://raw.githubusercontent.com/user/repo/main/demo.mp4](https://raw.githubusercontent.com/md-jawad-117/CSE756_Project_DualPathCRFNet/main/Video/0007_seg.mp4)
 ---
 
 ## Overview
